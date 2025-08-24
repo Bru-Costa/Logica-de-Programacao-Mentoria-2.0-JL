@@ -1,5 +1,5 @@
 function calcularDesconto(valorDoDesconto, ValorDoProduto){
-    return valorDoDesconto - valorDoDesconto
+    return valorDoDesconto - ValorDoProduto
 }
 
 const valorFinalDoProduto = calcularDesconto(10.00, 55.00)

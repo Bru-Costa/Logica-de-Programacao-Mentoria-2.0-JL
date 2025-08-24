@@ -1,0 +1,41 @@
+Arquivo destinado a decomposição do caso de teste proposto.
+
+Problema: Entender quanto uma quantidade de dólares poderia ser convertida
+em reais.
+
+Exemplo: Tenho 5 dólares e o valor atual do dólar é
+equivalente a R$ 5,00. Quero saber quantos reais eu terei no caso de
+possuir 25 dólares.
+
+Solução(decomposição):  
+
+- Encontrar quanto vale
+um dólar em relação
+aos reais
+- Encontrar a
+quantidade de
+dólares a serem
+convertidos
+- Multiplicar a
+quantidade de
+dólares pelo valor um
+dólar em relação aos
+reais
+- Apresentar o valor da
+conversão. 
+
+Sequência de Passos:
+
+1. Informe quantos
+dólares você tem
+2. Saber quantos
+Reais vale um Dólar
+3. Multiplique a
+quantidade de
+dólares que você
+tem pelo valor do
+Real
+4. Escreva o resultado
+da sua conta
+
+Execução da sequência de passos em: conversor#1.js

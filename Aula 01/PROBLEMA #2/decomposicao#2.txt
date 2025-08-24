@@ -1,0 +1,51 @@
+Arquivo destinado a decomposição do caso de teste proposto.
+
+Problema: Calcular qual valor pagar por um produto após aplicar um
+desconto a ele.
+
+Exemplo: Tenho um produto que custa R$ 55,00 e a loja me deu um desconto de
+R$ 10,00. Quero descobrir quanto irei pagar nesse produto.
+
+Solução(decomposição):  
+
+Calcular qual valor
+pagar por um produto
+após aplicar um
+desconto a ele.
+
+- Subtrair o valor do
+produto pelo
+desconto
+- Descobrir o valor do
+produto
+- Descobrir o valor do
+desconto
+- Descobrir o
+percentual do
+desconto
+- Apresentar do
+produto após o
+desconto
+
+Sequência de Passos:
+
+1. Informe o valor do
+produto
+2. Informe o percentual
+do desconto
+3. Calcule o valor que
+equivale ao
+percentual de
+desconto fazendo o
+calculo (percentual
+de desconto vezes
+valor) dividido por
+100
+4. Subtraia o valor do
+produto pelo valor
+do desconto (valor a
+pagar)
+5. Mostrar valor final do
+produto
+
+Execução da sequência de passos em: conversor#2.js

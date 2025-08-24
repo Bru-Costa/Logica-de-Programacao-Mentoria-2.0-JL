@@ -3,4 +3,4 @@ function calcularDesconto (valorDoProduto, valorDoDesconto){
   console.log(valorFinalDoProduto)
 }
 
-calcularDesconto(55.00, 10.00)
+calcularDesconto(50.00, 10.00)

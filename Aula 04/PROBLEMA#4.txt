@@ -1,0 +1,44 @@
+Problema: Preciso ter um sistema que aplique desconto de 10% no total do pedido apenas para clientes
+considerados VIP
+
+Exemplo 1: O total do meu pedido é R$ 500,00 e o meu cliente
+é VI,  então o total do pedido deverá ser R$450,00
+
+Exemplo 2: O total do meu pedido é R$ 500,00 e o meu cliente não é VI,  então o total do
+pedido deverá ser R$500,00
+
+Solução(decomposição):
+
+Construir um sistema que
+aplique desconto de 10%
+no total do pedido apenas
+para clientes
+considerados VIP
+
+- Informar o valor do
+pedido
+- Informar se o cliente
+é VIP
+- Calcular o desconto
+- Verificar se o cliente
+é VIP
+- Exibir o resultado
+- Aplicar o desconto
+
+Solução:
+
+1. Informar o valor do
+pedido
+2. Informar o tipo do
+cliente
+3. Verificar se o cliente
+é VIP
+4. Se for VIP Calcule e
+aplique o desconto
+valor - (valor * 10 /
+100)
+5. Se não for VIP não
+calcular o desconto
+6. Exibir o valor do
+pedido
+

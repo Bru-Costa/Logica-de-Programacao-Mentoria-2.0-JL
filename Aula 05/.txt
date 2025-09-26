@@ -1,0 +1,6 @@
+>> Automatizando utilizando node.js 
+
+>> Comandos: 
+- inicinado o terminal: npm init -y
+- executando teste: node test/comunicacao.test.js
+- utilizando a biblioteca Mocha: npm i Mocha
